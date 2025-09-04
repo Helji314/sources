@@ -6,7 +6,15 @@
     padding: 0;
 }
 
-body {
+ .image-list {
+            display: flex;
+            flex-wrap: wrap; /* allow wrapping to next line */
+            margin-left: 2em;
+            gap: 1em; /* space between images */
+            align-items: center;
+ }
+ 
+.box2 {
     font-family: var(--font-family);
     font-size: var(--font-size);
     background: var(--color-bg);
@@ -25,12 +33,12 @@ body {
     width: fit-content;
 }
 
-.header{
+header{
     font-family: Aster, Baskerville, serif;
     font-weight: bolder;
     font-size: larger;
     text-align: left;
-    height: 25%;
+    height: 30%;
 }
 
 /* 2. Root Variables */
