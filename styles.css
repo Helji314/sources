@@ -10,6 +10,7 @@
             display: flex;
             flex-wrap: wrap; /* allow wrapping to next line */
             margin-left: 2em;
+            margin-bottom: 1em;
             gap: 1em; /* space between images */
             align-items: center;
  }
