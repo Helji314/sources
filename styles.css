@@ -14,6 +14,56 @@
             gap: 1em; /* space between images */
             align-items: center;
  }
+
+ .btn {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  transition: all 0.5s ease-in-out;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  background: #040f16;
+  color: #f5f5f5;
+}
+
+.btn:hover {
+  box-shadow: 0 0 20px 0px #2e2e2e3a;
+}
+
+.btn .icon {
+  position: absolute;
+  height: 40px;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s;
+}
+
+.btn .text {
+  transform: translateX(55px);
+}
+
+.btn:hover .icon {
+  width: 175px;
+}
+
+.btn:hover .text {
+  transition: all 0.5s;
+  opacity: 0;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:active .icon {
+  transform: scale(0.85);
+}
  
 .box2 {
     font-family: var(--font-family);
@@ -40,6 +90,35 @@ header{
     font-size: larger;
     text-align: left;
     height: 30%;
+}
+
+.box3 {
+  position: absolute;
+    top: 1.5em;
+    right: 2em;
+    z-index: 10;
+}
+
+.btn {
+    width: 90px;
+    height: 32px;
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+.btn .icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+.btn .icon {
+    width: 35px;
+    height: 20px;
+}
+
+.btn .text {
+    transform: translateX(25px);
+    font-size: 14px;
 }
 
 /* 2. Root Variables */
