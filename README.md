@@ -1,2 +1,2 @@
 # sources
-The only Country humans artist who uses sources?
+The only Country Human artist who uses sources?
