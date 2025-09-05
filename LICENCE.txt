@@ -1,0 +1,22 @@
+Software License Agreement
+
+Licensor: Felicitas Schletter
+Licensee: Aster Leis
+
+1. Grant of License
+The Licensor grants the Licensee a non-exclusive, non-transferable right to install and use this software for commercial and business purposes.  
+
+2. Ownership
+The software and all intellectual property rights remain the sole property of the Licensor.  
+No ownership rights are transferred by this Agreement. 
+
+3. Liability
+The software is provided "as is" without warranties of any kind.  
+The Licensor shall not be liable for any damages, including but not limited to lost profits or data loss, arising from the use of the software.
+
+4. Termination
+If the Licensee violates this Agreement, the license will terminate immediately.  
+Upon termination, the Licensee must cease using the software.
+
+5. Governing Law
+This Agreement shall be governed by the laws of Germany. 
