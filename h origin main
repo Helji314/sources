@@ -1,0 +1,39 @@
+[33mcommit 805fbff216b4a4173c3d9b32f49684a3c3fa80f6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0223687 69f57ba
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Mon Oct 6 18:46:49 2025 +0200
+
+    Merge pull request #7 from Helji314/zwei
+
+[33mcommit 02236876dab8300435b67f7ed0584689e7e1752b[m
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Mon Oct 6 18:16:43 2025 +0200
+
+    Delete CNAME
+
+[33mcommit 0e7530ea880fdfda0410e72c5ef9d6c59e281066[m
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Mon Oct 6 18:06:32 2025 +0200
+
+    Create CNAME
+
+[33mcommit 4ca6fe9372aaab6e6c8205426b827df49d8b3651[m
+Merge: 8a5eb6f 6f74564
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Mon Oct 6 17:47:53 2025 +0200
+
+    Merge pull request #6 from Helji314/null
+    
+    -Kikaninchen
+
+[33mcommit 6f74564cd9e089e03954cd0b8543d71b04ebfabe[m[33m ([m[1;31morigin/null[m[33m, [m[1;32mnull[m[33m)[m
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Mon Oct 6 15:45:57 2025 +0000
+
+    -Kikaninchen
+
+[33mcommit 8a5eb6f149cef199c7d44bc6fcbd2a2072109101[m
+Author: Felicitas Schletter <feli@familie-schletter.de>
+Date:   Thu Oct 2 22:36:35 2025 +0200
+
+    +b
